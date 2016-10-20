@@ -1,0 +1,13 @@
+current directory: /Users/ms/Projects/BASERAILS/yelpdemo/vendor/bundle/ruby/2.3.0/gems/json-2.0.2/ext/json
+/Users/ms/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20161020-5454-alrtjn.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ms/Projects/BASERAILS/yelpdemo/vendor/bundle/ruby/2.3.0/gems/json-2.0.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/ms/Projects/BASERAILS/yelpdemo/vendor/bundle/ruby/2.3.0/gems/json-2.0.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/ms/Projects/BASERAILS/yelpdemo/vendor/bundle/ruby/2.3.0/gems/json-2.0.2/ext/json
+make "DESTDIR=" install
